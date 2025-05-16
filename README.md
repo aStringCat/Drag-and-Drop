@@ -5,7 +5,7 @@
 ### 使用说明
 
 !请确保你的设备中有 node 环境，并且能够支持项目依赖
-node 链接[text](https://nodejs.org/en)
+node 下载链接：[node.js](https://nodejs.org/en)
 
 第一次使用时，务必输入 npm install 自动下载依赖
 
