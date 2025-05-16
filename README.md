@@ -7,7 +7,7 @@
 !请确保你的设备中有 node 环境，并且能够支持项目依赖
 node 下载链接：[node.js](https://nodejs.org/en)
 
-第一次使用时，务必输入 npm install 自动下载依赖
+第一次使用时，务必输入 `npm install` 自动下载依赖
 
 开启一个终端，进入项目的目录，输入`node server.js`。
 
