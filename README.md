@@ -9,7 +9,8 @@ node 下载链接：[node.js](https://nodejs.org/en)
 
 第一次使用时，务必输入 npm install 自动下载依赖
 
-开启一个终端，进入项目的目录，输入`node server.js`
+开启一个终端，进入项目的目录，输入`node server.js`。
+
 再开启一个终端，进入项目的目录，输入`npm run dev`
 
 修改文件保存位置可以通过修改 server.js 中的 UPLOADS_DIR 的值实现
