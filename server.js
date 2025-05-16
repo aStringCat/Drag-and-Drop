@@ -33,6 +33,7 @@ const storage = diskStorage({
 
 const upload = multer({
   storage: storage,
+  //You can add limits
 });
 
 app.post("/api/upload", (req, res, _next) => {
