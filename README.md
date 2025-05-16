@@ -1,4 +1,4 @@
-# Drag and Drop and Judge
+# Drag and Drop
 
 本项目为方便测评机而开发的跨设备文件传输工具
 
